@@ -1,0 +1,4 @@
+mongo_connection_string: mlab://
+
+jwt_verification_key: private_key
+jwt_signing_key: private_key
