@@ -20,3 +20,7 @@
 
 # Distribution folder
 dist/
+
+# Vendor folder
+
+vendor/
