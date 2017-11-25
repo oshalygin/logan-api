@@ -22,4 +22,4 @@
 dist/
 
 # Vendor folder
-# vendor/
+vendor/
